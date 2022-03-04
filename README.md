@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="background:yellow">
-<a href="https://github.com/analivia1104">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analivia1104&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivia1104&layout=compact&langs_count=7&theme=radical"/> 
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=analivia1104&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+
+  <a href="https://github.com/analivia1104">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analivia1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivia1104&layout=compact&langs_count=7&theme=tokyonight"/> 
+
+  
+
+  
  
   <p align="center" style="background:yellow">
 
@@ -30,3 +33,4 @@ Here are some ideas to get you started:
 </a>
 
 </a>
+![Snake animation] (https://github.com/analivia1104/analivia1104/blob/output/github-contribution-grid-snake.svg)
