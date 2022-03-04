@@ -30,7 +30,8 @@ Here are some ideas to get you started:
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-silva-paiva-915a13230/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.instagram.com/analivia_1104" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+   </a>
 </a>
 
-</a>
-![Snake animation] (https://github.com/analivia1104/analivia1104/blob/output/github-contribution-grid-snake.svg)
