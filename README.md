@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/PedroNB10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNB10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNB10&layout=compact&langs_count=7&theme=algolia"/> 
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=PedroNB10&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
