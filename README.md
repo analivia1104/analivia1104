@@ -4,7 +4,7 @@ Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile! 👋
 
 <a href="https://github.com/analivia1104">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analivia1104&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivia1104&layout=compact&langs_count=7&theme=radical"/> 
+
   
 <p align="center" style="background:yellow">
 <a href="https://www.instagram.com/analivia_1104" radical ="_blank">
