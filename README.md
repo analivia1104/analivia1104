@@ -14,8 +14,7 @@ Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile! 👋
 <a href="mailto:analivia110405@gmail.com" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Gmail"/>
 <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/>
-<a href="https://www.linkedin.com/in/ana-l%C3%ADvia-silva-paiva-915a13230/" radical ="_blank">
-  
+<a href="https://discord.com/Ana Lívia#1446" radical ="_blank">
 <div align="center">
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=analivia1104&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
 
