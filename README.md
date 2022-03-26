@@ -22,8 +22,3 @@ Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile! 👋
 </a>
 </a>
 
-<div align="center">
-   
-  ![Snake animation](https://github.com/analivia1104/analivia1104/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
