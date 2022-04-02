@@ -3,7 +3,14 @@ Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile! 👋
 </p>
 <div align="center">
 <a href="https://github.com/analivia1104">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=analivia1104&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=analivia1104&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivia1104&layout=compact&langs_count=7&theme=algolia"/> 
+<img height="500em" src="https://github-profile-trophy.vercel.app/?username=analivia1104&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+<img align="center" alt="ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
 </div>
   
 <p align="center" style="background:yellow">
