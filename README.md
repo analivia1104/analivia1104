@@ -16,8 +16,7 @@ Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile! 👋
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 <a href="mailto:analivia110405@gmail.com" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Gmail"/>
-<img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/>
-<a href="https://discord.com/Ana Lívia#1446" radical ="_blank">
+
 </a> 
 </a>
 </a>
