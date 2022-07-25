@@ -10,6 +10,9 @@ Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile! 👋
 <hr>
 <p>
 <p align="center" style="background:yellow">
+## Social Links and Contacts:
+
+<p align="center" style="background:yellow">
 <a href="https://www.instagram.com/analivia_1104" radical ="_blank">
 <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-silva-paiva-915a13230/" radical ="_blank">
